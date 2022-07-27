@@ -13,7 +13,7 @@ const baseUri = "ipfs://NewUriToReplace";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5, //600
+    growEditionSizeTo: 50, //600
     layersOrder: [
       { name: "Event" },
       { name: "Speaker" },
