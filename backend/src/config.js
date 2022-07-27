@@ -16,6 +16,7 @@ const layerConfigurations = [
     growEditionSizeTo: 50, //600
     layersOrder: [
       { name: "Event" },
+      { name: "Ticket" },
       { name: "Speaker" },
       { name: "What if" },
       { name: "Partner" },
