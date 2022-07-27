@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Master & Robots 2022";
-const description = "Masters & Robots is designed for the CEOs and Founders, as well as top management teams, and experts. The government officials, decision makers but also creative thinkers will find a substantial dose of knowledge. The event will be beneficial for innovators, and scientists who will have a chance to derive practical insights from the world-class practitioners of the field. That is a great chance for the NGOs representatives, start-up founders and their investors to find some inspiration towards further digital growth. Welcome to the 'What If...' 2022 edition. This time for the very first time we also released web3 NFT Metaverse Tickets. Mint maximum 10 of our NFT's with super-rare edition and have fun! ";
+const description = "Masters & Robots is designed for the CEOs and Founders, as well as top management teams, and experts. The government officials, decision makers but also creative thinkers will find a substantial dose of knowledge. The event will be beneficial for innovators, and scientists who will have a chance to derive practical insights from the world-class practitioners of the field. That is a great chance for the NGOs representatives, start-up founders and their investors to find some inspiration towards further digital growth. Welcome to the 'What If...' 2022 edition. This time for the very first time we also released web3 NFT Metaverse Tickets. Mint maximum 10 of our NFT's with super-rare GOLD TICKET edition and have fun! ";
 const baseUri = "ipfs://NewUriToReplace";
 
 const layerConfigurations = [
@@ -17,7 +17,7 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Event" },
       { name: "Speaker" },
-      { name: "Question" },
+      { name: "What if" },
       { name: "Partner" },
       { name: "Class" },
       //{ name: "Sustainable" },
@@ -30,7 +30,7 @@ const layerConfigurations = [
       { name: "Digit_6" },
       { name: "Digit_7" },
       { name: "Digit_8" },
-      //{ name: "Digit_9" },
+      { name: "Digit_9" },
       //{ name: "Robot" },    
     ],
   },
